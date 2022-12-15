@@ -1,5 +1,7 @@
 public class Hello{
 
-	int number;
+	int number02;
+	int num03;
+	int num04;
 
 }
